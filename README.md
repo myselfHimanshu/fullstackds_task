@@ -19,7 +19,7 @@ Python · Data Science · Engineering
 ## Python Basics
 
 - Lesson
-  - [Learn fundamentals of Python programming.](https://myselfhimanshu.github.io/fullstackdataschool/python/)
+  - [Learn fundamentals of Python programming.]()
 - Notebooks
   - [Theory Assignments]()
   - [Hands-on Assignments]()
